@@ -1,0 +1,8 @@
+game/.godot/
+game/export_presets.cfg
+/build/
+/dist/
+__pycache__/
+*.pyc
+*.import.tmp
+game/.autoconverted/
